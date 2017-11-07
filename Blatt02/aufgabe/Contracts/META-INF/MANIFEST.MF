@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Contracts
+Bundle-SymbolicName: Contracts
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: Contracts.jar,
+ alex/Downloads/C4J-Eclipse-Plugin-master.zip
+Export-Package: .
